@@ -1,3 +1,23 @@
+# Vishal Patil — Portfolio Website
+
+🌐 **Live Site:** [https://Vishalp9900.github.io/my-new-portfolio](https://Vishalp9900.github.io/my-new-portfolio)
+
+A personal portfolio showcasing my skills, projects, and experience as an **AI/ML Engineer** and **Full Stack Developer**.
+
+## 🛠 Tech Stack
+
+- HTML5, CSS3, JavaScript (Vanilla)
+- Fonts: Syne, DM Sans, JetBrains Mono
+- Deployed via **GitHub Pages**
+
+## 📂 Structure
+
+```
+my-new-portfolio/
+├── index.html       # Main portfolio page
+└── README.md        # This file
+```
+
 ## 🚀 Sections
 
 - **Hero** — Introduction with stats
